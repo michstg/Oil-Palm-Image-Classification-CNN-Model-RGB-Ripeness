@@ -1,2 +1,8 @@
 # Oil-Palm-Image-Classification-CNN-Model-RGB-Ripeness
-Oil Palm Image Classification building by CNN Model with RGB identification
+Dataset = Google Image Scraping
+
+* Data Preparation
+* Image Preprocessing
+* Modeling Using CNN
+* Model Evaluation = ROC = 0.95 (Excellent Classification)
+* Deployment 
